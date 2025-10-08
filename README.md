@@ -22,7 +22,7 @@
         </ul>
         </li>
     
-    <li><h2>Expériences professionnelles</h2>
+   <li><h2>Expériences professionnelles</h2>
       <ul>
         <li><h5>Créatrice de contenu, entrepreneuse et autrice – Depuis 2022</h5>
           <ul>
@@ -35,7 +35,7 @@
           </ul>
         </li>
 
-        <li><h5>Consultante marketing et stratégie digitale – Depuis 2022</h5>
+  <li><h5>Consultante marketing et stratégie digitale – Depuis 2022</h5>
           <ul>
             <li>Élaboration de stratégies de visibilité et positionnement de marque</li>
             <li>Accompagnement sur la création de contenu et les campagnes de communication</li>
@@ -44,7 +44,7 @@
           </ul>
         </li>
 
-        <li><h5>Rédactrice Web SEO (Freelance) – 2020-2023</h5>
+  <li><h5>Rédactrice Web SEO (Freelance) – 2020-2023</h5>
           <ul>
             <li>Rédaction pour sites e-commerce et agences de communication</li>
             <li>Storytelling, newsletters, articles optimisés SEO</li>
@@ -52,13 +52,13 @@
           </ul>
         </li>
 
-        <li><h5>Téléconseillère – Studycall (2021–2022)</h5>
+   <li><h5>Téléconseillère – Studycall (2021–2022)</h5>
           <ul>
             <li>Prospection et accompagnement téléphonique d’élèves en recherche de formations</li>
           </ul>
         </li>
 
-        <li><h5>Stage – Étude Couteau-Bégarie, commissaire-priseur (juin 2019)</h5>
+   <li><h5>Stage – Étude Couteau-Bégarie, commissaire-priseur (juin 2019)</h5>
           <ul>
             <li>Organisation de ventes, gestion de catalogues et rédaction de fiches œuvres</li>
           </ul>
@@ -66,7 +66,7 @@
       </ul>
     </li>
 
-    <li><h2>Savoir-faire et compétences</h2>
+   <li><h2>Savoir-faire et compétences</h2>
       <ul>
         <li><h5>Certifications</h5>
           <ul>
@@ -75,7 +75,7 @@
           </ul>
         </li>
 
-        <li><h5>Compétences</h5>
+   <li><h5>Compétences</h5>
           <ul>
             <li>Anglais Niveau C1</li>
             <li>Concours général de philosophie (2021)</li>
@@ -88,7 +88,10 @@
           </ul>
         </li>
 
-        <li><h5>Centres d’intérêt</h5>
+   <li><h5>Centres d’intérêt</h5>
           <ul>
-          x
-          x
+          <li>Écriture - Éloquence - Philosophie - Marketing digital</li> 
+          <li>Vidéo - Développement personnel - Education</li>
+          <li>Entrepreneuriat - Littérature - Sport </li>
+          </ul>
+        
